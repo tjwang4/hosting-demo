@@ -1,0 +1,27 @@
+h1 {
+    background-color: #FF0000;
+    color: #ffffff;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+div p {
+    color: #ff0000;
+}
+
+.athletes {
+    font-weight: 800;
+}
+
+#the-goat {
+    color: #9b04a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4em;
+    text-decoration: underline;
+
+}
+
+.special-img {
+    /* SIZE, SYTLE, COLOR*/
+    border: 4px solid #0000ff;
+}
